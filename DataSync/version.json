@@ -1,13 +1,13 @@
 {
   "version": "1.3.0",
   "notes": "New functionalities and bugs correction.",
-  "pub_date": "2026-04-02T07:23:37Z",
+  "pub_date": "2026-04-02T08:32:44Z",
   "latest_version": "1.3.0",
   "download_url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.3.0/Unknown.Network.Data.Sync_1.3.0_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.3.0/Unknown.Network.Data.Sync_1.3.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ2pOU0V1ZzNEV3ZwTlZkRWJVays2ZlVTZytnYWRWbUE0TEFPbWRCTGNncWRPbjc1MmlOQXVySVNFTDVPNEFzQmo5YnpOSEI5aklaOG9RNG5MMXRzdEZVUkx6SWMyOUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTE0NTc5CWZpbGU6VW5rbm93biBOZXR3b3JrIERhdGEgU3luY18xLjMuMF94NjQtc2V0dXAuZXhlCkk2WXRyeDVnYlBqUHFrK2VhZTIwYTFHaGFqempRcDgzelMrYWdDTDVYTThJTjZEdFltc1J6VUpsMGhJWWxudEN3NFhVWnkyUXFUdms1bGVYQVBmT0R3PT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQ2pOU0V1ZzNEV3NVSzdjUGd5Nzd4MCtETlhEc0lBUHY1bkhuRjRqMy9RTDU4dWw5N1JyVnNZRXVITmxML3FkN0ZiSTd5aW9jTmk0d1hLRmtmK0k3VzlLc1JjN05jYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDc1OTY1CWZpbGU6VW5rbm93biBOZXR3b3JrIERhdGEgU3luY18xLjMuMF94NjQtc2V0dXAuZXhlCjVldXVtS1JqNkVFSnBhUTR0RTJzLzlrTGNmRWd5MW1yZE9xOWhHdnV4TVQvTng2RzRCb3F3OXRuSzMxbjlUR2M3NWRJZGplVzdhektXV2pUNFc5a0NRPT0K"
     }
   }
 }
