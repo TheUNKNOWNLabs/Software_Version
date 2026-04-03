@@ -1,13 +1,13 @@
 {
   "version": "1.5.0",
   "notes": "New functionalities and bug fixes.",
-  "pub_date": "2026-04-03T07:33:26Z",
+  "pub_date": "2026-04-03T10:21:36Z",
   "latest_version": "1.5.0",
   "download_url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.5.0/Unknown.Labs.Cassiopeia_1.5.0_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.5.0/Unknown.Labs.Cassiopeia_1.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNU55dStYNDFCVEl6ZUVBREREd0M2ZDVWUTBNQ1F2Z3hMNTFnTXRCalBubVZsZDVTckZWK2dsNmlKOGUzaU5oT1E1UDhnN2tDR0Q5UlBkaTZvOEFrWnpqcDlmdHoyQUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjAxNTkyCWZpbGU6VW5rbm93biBMYWJzIENhc3Npb3BlaWFfMS41LjBfeDY0LXNldHVwLmV4ZQp6Zk1UMHBlb29XVWlTVUZ5VnVXdUl3YW1IakwzSlBLUXJKSFZhNFRGRXIxRmxtV3JVMVpWODlXUG1lbGdETVlvUW1BM2dueFVESDdqSkg5Q01BanpCQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNU55dStYNDFCVEFYUXlnQzVvVS9YalhvZVhBdStGU1VoZjZQTkZRc0IvaGx5ZlJPL3FRSVphQ1ViaHR1SHFqMTFuUVRXcDN1YkxaV0N6UnBVanNzdXJyK2pHb2VvNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjExNjg1CWZpbGU6VW5rbm93biBMYWJzIENhc3Npb3BlaWFfMS41LjBfeDY0LXNldHVwLmV4ZQovVDhEM1JHMHJ0eldVUmFrTWhlQWI2T0RUM2dUZU9ZZ1pvVW5oR0R3alR1OGFtMkw1MjcwaXhtTFFzRFdsaEtlVjRnN2JjKzJLSDdFNGZHeUpGSVlEQT09Cg=="
     }
   }
 }
