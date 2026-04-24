@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Première release",
+  "pub_date": "2026-04-24T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.1.0/Unknown.Network_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWk9lWFJ5ZzQ4alFZeVl0NTk0NXd0MlRyRGVpWTB6cU1nTGtOSmJJQ1JCRWloVE0xc2xBK3ZRNEVsV3c4NVJMUFlRQTlIaW1EeVBBTmNRa2IweDZzZFZhc0pScFVZVlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDE4NjM4CWZpbGU6VW5rbm93biBOZXR3b3JrXzAuMS4wX3g2NC1zZXR1cC5leGUKSm0wOVQwWTk5YSs4Y3MwT04vOGJhTE8xWjdJYlBMQnRPUEFjUXRJSkVYclZGdTVHL2c4dnZXS3k0a0FqVUNMZ2YvQ1RrTnVVZnEzdHBlcnFZY2FaQ0E9PQo="
+    }
+  }
+}
