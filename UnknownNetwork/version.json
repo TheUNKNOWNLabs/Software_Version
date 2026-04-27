@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "New functionalities and bugs correction.",
-  "pub_date": "2026-04-27T08:17:03Z",
+  "pub_date": "2026-04-27T14:48:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.1.1/Unknown.Network_0.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWk9lWFJ5ZzQ4alRRWUJzTE0rWlQ4R1hUR2w0VzlKbWUwVTRscFVWQlpoREVaTm9BUG9nTGd6Z1lPUFpESmlzcG9XNEsyVkdMdnRMQXJ5RTE2SGY5VHBJUXI0QkRhOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mjc3ODIyCWZpbGU6VW5rbm93biBOZXR3b3JrXzAuMS4xX3g2NC1zZXR1cC5leGUKaFNMTGQrNXpZb3pPNjVtanNCUXFLRjN6SFBVd2hoMmNiT3dvdmp6Sk1TdkZ5RW5yR1hTVjQwclpMZW9rSENmdFpFVjZiSTdQcEdyYnVSNTgySlFBQUE9PQo="
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.1.2/Unknown.Network_0.1.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWk9lWFJ5ZzQ4alZxRG4zZDNXdkgzVTBneHhrNkJUMVlwTGkyOGtybjJwTnJ1RS8ya3E2b3pTZHpaWFY2aE5ZWVRyNHQzWjZSVEtHaVUvUTAzTy9uRU0xUVBldHNBS2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzAxMzEzCWZpbGU6VW5rbm93biBOZXR3b3JrXzAuMS4yX3g2NC1zZXR1cC5leGUKbFFQZDBUb3E0QW8wU2JDQS9yTHJ1QnBZVmxlSTE4YlJHdEQxTHpxUHJXUE9YLzB3UUZwOTJNZUpWTHpyOUExaEtod3R0cGU3S01MYk1rbnJVdEpURGc9PQo="
     }
   }
 }
