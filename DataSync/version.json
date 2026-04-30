@@ -1,11 +1,11 @@
 {
-  "version": "1.4.5",
+  "version": "1.5.0",
   "notes": "New functionalities and bugs correction.",
-  "pub_date": "2026-04-13T19:35:51Z",
+  "pub_date": "2026-04-30T17:17:38Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.4.5/Unknown.Network.Data.Sync_1.4.5_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdUtXQjJoSGdTaXBFc2psc0xHMUpocWFxR2pRcWNPbHQzaVBNdXd0RGFjSFJWaGw3ZkpLYzBxQzFJZmQ4OE9GN0U5Yms2VUljTXVRU3NOdHNlc3AxOVl4cXd3UGtaWWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTA4OTM5CWZpbGU6VW5rbm93biBOZXR3b3JrIERhdGEgU3luY18xLjQuNV94NjQtc2V0dXAuZXhlCnZCaDM1Z1ZnL0VrZlE3REJXZzlsWTMrbmdYZkFDMUIrRmV3TmhJZ0lxSjYzT2JNUlFaZTBSTG16Tld3NHdhTW5DZUZDcW1WNWh2MFI1YjUvT1hwSUFnPT0K"
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.5.0/Unknown.Network.Data.Sync_1.5.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdUtXQjJoSGdTaW1ENUhiay9GM1JtMmJtRHc4eVVnbkRXRFdYQlp6S3A5MVZoNFpWdmlBVFd3MmM1bEVwNDF1ZHlNaCsrSmtNVDFFU29WNkY3S3BMcWNjSE43TUlzN2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTY5NDQ2CWZpbGU6VW5rbm93biBOZXR3b3JrIERhdGEgU3luY18xLjUuMF94NjQtc2V0dXAuZXhlCmFWejNzSDNNR2VLOWJFTlJITUw2T1lKMWgrNGJBU25UQW1RUlNLVWdIYmhyNHlBQWVZTFU5djM3TDJZS0dVMWJEc3FFZGxMWkd4SW9lcnNEaEFvbEJRPT0K"
     }
   }
 }
