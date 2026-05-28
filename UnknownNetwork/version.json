@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "notes": "New functionalities and bugs correction.",
-  "pub_date": "2026-05-19T09:00:46Z",
+  "pub_date": "2026-05-28T19:08:21Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.5.0/Unknown.Network_0.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWk9lWFJ5ZzQ4alI0bStSUXNqWU5NZ1VjcGdORzRxaWY4RW0rVEFyZGJKY1pnVDVsM0tEWHJsaklSaGdhMFJKUXlVVTc3Q1cyVXFtL2ZRTVNFUkNSOTZNKzJENXRyL3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTgxMjQ2CWZpbGU6VW5rbm93biBOZXR3b3JrXzAuNS4wX3g2NC1zZXR1cC5leGUKU2NGUXdLZEV0SFk2WlpySFdRWUFENGhUODFIUmJQVHdCVFFYYm9rS0V0Tlg0MVFzOFVzMWVaSVlzc0hWbnhDSzdnazNJd09MMFRGN1NsSGZldzIzQmc9PQo="
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.6.0/Unknown.Network_0.6.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWk9lWFJ5ZzQ4aldHeTFNbE0wZTY2aDJqMTcxb051ZG10WGo0RWhMNVZBLzJmbW9GZC92elNYZnVueWt2SERKak1hZzVQRlU1Q3AxbDN2cVh6cHY0VWFZQjVPbVlFdEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTk1MzAwCWZpbGU6VW5rbm93biBOZXR3b3JrXzAuNi4wX3g2NC1zZXR1cC5leGUKdzVYbUNTcEExekJzbWRQbDA1UzZ4TlhmRVZ0MnR1OXFCaGphV0M3QnBzdHovSmNDbi9FcWNCNURSSTE3cTlMQzFYeU4zM0phem8zNC9QL1lLSmJCQ1E9PQo="
     }
   }
 }
