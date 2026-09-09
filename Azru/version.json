@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "notes": "New functionalities and bugs correction.",
-  "pub_date": "2026-09-04T13:50:23Z",
+  "pub_date": "2026-09-09T12:13:49Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.2.1/Azru_0.2.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczZBQXE3UUcvbFNFcURyUkh0UGZyQUxVUTdEZWlZaUZvdGJjWlZTdE9NVXpmdk9peE81UkpENEFIblV6ZVpYZmFPQTB1THFqUXVMVjhBeFQyeGtKQ2ZLM1IzSTRmR0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTI5ODIzCWZpbGU6QXpydV8wLjIuMV94NjQtc2V0dXAuZXhlCkc3Z3Z5ZFFIQ3pMOU9JbGVXVTJqeDNvcWFFSE1sUmdJRWZza1J1UnJWRGlmWC9ZVUQ2N0JFZWRqQXRraUtnZTMrUE1iSGtteW1xUWYxb1VkbkpmckRRPT0K"
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v0.2.2/Azru_0.2.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSczZBQXE3UUcvbGYvRUk5clRNbmRnS3d6SzBaN1FQem9kbHAzQmZQeUlabWZpVk5jU1A4bVg0a3NUTzhENkk1eTBTZ0hvTzFkQXFiTzZTcU53SlJYZUszRktETCt5NXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTU2MDI5CWZpbGU6QXpydV8wLjIuMl94NjQtc2V0dXAuZXhlCjZYbG50SWxDU282SWJ1dkdaV3U5QlhsaU8zVlJVcVI2UzhUeFdnOTAyUVE2WWpCSmszeDBWQkFpNGszYWxxVVJyNTVPMW1VWHBOU1NuVi8vNmNuREFnPT0K"
     }
   }
 }
