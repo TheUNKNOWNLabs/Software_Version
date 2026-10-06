@@ -1,4 +1,13 @@
 {
-  "latest_version": "1.1.0",
-  "download_url": "https://theunknownlabs.com/thunderview-update-download"
+  "version": "1.2.0",
+  "notes": "Automatic in-app updates, new license activation with a single code, direct Cloud API integration.",
+  "pub_date": "2026-10-06T11:31:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.2.0/ThunderView_1.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEM5UjdrSzZvSmtpbktURVgxWUY5RUxIT2wvZDhueDdMWXBHWnhoeGpQSnduczZaSmtrc0VKNjdrT3loakRvczBCRkZzayswbzVXcGpkSytqMExCUGJZa3pBQ0k5a0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg2MjYyCWZpbGU6VGh1bmRlclZpZXdfMS4yLjBfeDY0LXNldHVwLmV4ZQp5MDRSY2xVK3JLNEpaalkzR2dPR2V5RWF1YU4vMXBvVzNwcFM1VXFnbzVnTDM0czRsdXptb3FSOWQraTh2bk50SGhwY1Uwc0Q3Z3o5V2hCNkFlM0JEQT09Cg=="
+    }
+  },
+  "latest_version": "1.2.0",
+  "download_url": "https://github.com/TheUNKNOWNLabs/Software_Version/releases/download/v1.2.0/ThunderView_1.2.0_x64-setup.exe"
 }
